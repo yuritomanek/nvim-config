@@ -43,7 +43,7 @@ return {
 				},
 			},
 			git = {
-				ignore = false,
+				ignore = true,
 			},
 		})
 
